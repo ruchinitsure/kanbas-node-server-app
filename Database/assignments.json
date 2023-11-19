@@ -1,0 +1,11 @@
+[
+    { "_id": "A101", "title": "A1 - ENV + HTML", "course": "RS101","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A102", "title": "A2 - CSS + BOOTSTRAP", "course": "RS101","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A103", "title": "A3 - JS + REACT", "course": "RS101","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023" },
+    { "_id": "A201", "title": "A4 - STATE + REDUX", "course": "RS102","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A202", "title": "A5 - NODE + SESSION", "course": "RS102","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023" },
+    { "_id": "A203", "title": "A6 - MONGO", "course": "RS102","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A301", "title": "Structural Design Task", "course": "RS103","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A302", "title": "Orbital Calculations", "course": "RS103","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"},
+    { "_id": "A303", "title": "Systems Engineering Exam", "course": "RS103","points" :100,"due":"11/19/2023","avail":"11/19/2023","until":"12/09/2023"}
+  ]

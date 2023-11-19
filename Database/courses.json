@@ -1,0 +1,12 @@
+[
+    { "_id": "RS101",
+      "name": "Web Development", "number": "CS5610", "startDate": "2023-09-07",
+      "endDate": "2023-12-15"
+    },
+    { "_id": "RS102",
+      "name": "Foundations of Artificial Intelligence", "number": "CS5100", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    },
+    { "_id": "RS103",
+      "name": "Database Design", "number": "CS 3200", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    }
+  ]
